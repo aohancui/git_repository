@@ -6,5 +6,8 @@ public class Test1{
     public static void main(String[] args) {
       //github端（其他同事）修改了代码
         System.out.println("世界你好");
+        /*
+        修改了1.0的bug
+         */
     }
 }
