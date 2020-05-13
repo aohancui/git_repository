@@ -1,5 +1,5 @@
 package com.usian.test;
 
 public class Test2 {
-    //同事的代码
+    //本地仓库的代码
 }
